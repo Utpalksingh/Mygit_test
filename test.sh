@@ -1,6 +1,6 @@
 #!/bin/sh
 
-var = 10
+var = 30
 
 var2 = 20
 
